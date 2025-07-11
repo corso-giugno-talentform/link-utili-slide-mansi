@@ -46,3 +46,14 @@
 - **CSS Diner (selettori CSS):** https://flukeout.github.io/
 - **JavaScript 30 (30 progetti JS senza librerie):** https://javascript30.com/
 - **Frontend Mentor (challenge di design reali):** https://www.frontendmentor.io/
+
+## Tailwindcss
+ 
+- **https://tailwindcss.com/docs - Documentazione ufficiale completa con esempi pratici**
+- **https://play.tailwindcss.com/ - Playground online per testare codice in tempo reale**
+- **https://tailwindui.com/components - Componenti pre-costruiti e esempi (alcuni a pagamento)**
+- **https://www.youtube.com/c/TailwindLabs - Canale YouTube ufficiale con tutorial video**
+- **https://tailwindcomponents.com/ - Libreria gratuita di componenti della community**
+- **https://devdojo.com/tailwindcss/buttons - Generatore di componenti visuale**
+- **https://daisyui.com/**
+- **https://preline.co/**
