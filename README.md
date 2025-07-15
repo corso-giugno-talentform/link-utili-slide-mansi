@@ -57,3 +57,4 @@
 - **https://devdojo.com/tailwindcss/buttons - Generatore di componenti visuale**
 - **https://daisyui.com/**
 - **https://preline.co/**
+- **https://taildashboards.com/**
