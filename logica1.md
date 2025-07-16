@@ -1329,3 +1329,39 @@ function cerca($lista, $valore) {
     }
     return -1;}
 ```
+
+
+## **Esercizio 1: Diagramma di Flusso - "Preparare una Colazione"**
+
+**Obiettivo**: Comprendere sequenze logiche e condizioni
+
+**Istruzioni**:
+
+1. Crea un diagramma di flusso in Miro che descriva i passaggi per preparare una colazione
+2. Usa forme diverse per:
+    - **Ovali** per inizio/fine
+    - **Rettangoli** per azioni (es. "Accendi fornello")
+    - **Rombi** per decisioni (es. "Hai le uova?")
+    - **Frecce** per collegare i passaggi
+
+**Esempio di flusso**:
+
+- Inizio → Controlla frigo → Hai le uova? → Se SÌ: Cuoci uova → Se NO: Prendi cereali → Fine
+
+**Concetti appresi**: Sequenze, condizioni if/else, flusso logico
+
+---
+
+## **Esercizio 2: Algoritmo Visivo - "Indovinare un Numero"**
+
+**Obiettivo**: Comprendere cicli e logica iterativa
+
+**Istruzioni**:
+
+1. Crea un diagramma che rappresenti il gioco "indovina il numero da 1 a 10"
+
+**Flusso da rappresentare**:
+
+- Genera numero casuale → Chiedi tentativo → Confronta → Dai feedback → Ripeti fino a vittoria
+
+**Concetti appresi**: Variabili, loop, confronti, input/output
