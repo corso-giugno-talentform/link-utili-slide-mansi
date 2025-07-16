@@ -1365,3 +1365,44 @@ function cerca($lista, $valore) {
 - Genera numero casuale → Chiedi tentativo → Confronta → Dai feedback → Ripeti fino a vittoria
 
 **Concetti appresi**: Variabili, loop, confronti, input/output
+
+
+## Soluzioni 1
+
+```
+INIZIO
+  Controlla frigo
+  SE hai il becon ALLORA
+    Accendi fornello
+    Cuoci becon
+    Spegni fornello
+    Mangia
+  ALTRIMENTI
+    Prendi cereali
+    Aggiungi latte
+    Bevi
+  FINE SE
+  Mangia colazione
+FINE
+```
+
+
+## Soluzioni 2
+
+```
+INIZIO
+  casuale = genero un numero_casuale da 1 a 10
+  i = 1;
+  RIPETI
+    Chiedi "Inserisci un numero da 1 a 10"
+    Leggi numero
+    SE numero = casuale ALLORA
+      Scrivi "Bravo! Hai indovinato con n tentiativi!"
+    ALTRIMENTI SE numero < casuale ALLORA
+      Scrivi "Fuoco! Ma Troppo piccolo!"
+    ALTRIMENTI
+      Scrivi "Fuoco! Ma Troppo grande!"
+    FINE SE
+  FINCHÉ numero ≠ casuale
+FINE
+```
