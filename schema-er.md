@@ -1,6 +1,6 @@
 - Teoria: https://www.andreaminini.com/database/modello-e-r
 - Modello E/R Grafico: https://www.lucidchart.com/pages/it/erd
-
+- Mysql: https://dev.mysql.com/downloads/installer/
 
 ---
 ## Esercizi
