@@ -1,4 +1,5 @@
 - Teoria: https://www.andreaminini.com/database/modello-e-r
+- Modello E/R Grafico: https://www.lucidchart.com/pages/it/erd
 
 
 ---
