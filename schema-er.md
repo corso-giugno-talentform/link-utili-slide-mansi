@@ -1,6 +1,6 @@
 - Teoria: https://www.andreaminini.com/database/modello-e-r
 - Modello E/R Grafico: https://www.lucidchart.com/pages/it/erd
-- Mysql: https://dev.mysql.com/downloads/installer/
+
 
 ---
 ## Esercizi
@@ -55,3 +55,27 @@ Ricorda di indicare i dati necessari che ci si aspetta da uno schema
 - come si chiamano le colonne (con sintassi corretta),
 - che tipo di dati accetta la colonna,
 - eventuali relazioni
+
+
+----
+**MYSQL**
+PER MAC:
+
+brew install mysql
+brew services start mysql
+mysql_secure_installation
+In ordine c’è da dare le seguenti risposte:
+- y
+- 0
+Adesso inseriamo una password “rootroot”. Anche se non compare sullo schermo sta venendo inserita correttamente.
+Inseriamola nuovamente per dare conferma
+Poi premiamo “ y “
+- y
+- y
+- y
+- y
+Installazione completata
+
+PER WINDOWS:
+
+- Mysql: https://dev.mysql.com/downloads/installer/
