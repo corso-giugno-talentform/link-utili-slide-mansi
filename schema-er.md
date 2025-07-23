@@ -7,7 +7,7 @@
 
 Progettare e disegnare (tramite miro o altro software ) lo schema dei seguenti progetti (ricordati di implementare le chiavi primarie, anche se non sono scritte):
 
-1)** E-commerce**
+**1)E-commerce**
 
 
 
