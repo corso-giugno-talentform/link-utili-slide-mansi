@@ -79,6 +79,11 @@ Poi premiamo “ y “
 - y
 Installazione completata
 
+
+------
+
+path di ambiente: C:\Program Files\MySQL\MySQL Server 8.0\bin\
+
 PER WINDOWS:
 
 - Mysql: https://dev.mysql.com/downloads/installer/
