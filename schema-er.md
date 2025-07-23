@@ -61,9 +61,12 @@ Ricorda di indicare i dati necessari che ci si aspetta da uno schema
 **MYSQL**
 PER MAC:
 
-brew install mysql
-brew services start mysql
-mysql_secure_installation
+`brew install mysql`
+
+`brew services start mysql`
+
+`mysql_secure_installation`
+
 In ordine c’è da dare le seguenti risposte:
 - y
 - 0
