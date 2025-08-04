@@ -40,7 +40,7 @@
 
 ---
 
-## 🕹️ Gameification
+## 🕹️ Gamefication
 - **Flexbox Froggy (impara Flexbox giocando):** https://flexboxfroggy.com/
 - **Grid Garden (impara CSS Grid):** https://cssgridgarden.com/
 - **CSS Diner (selettori CSS):** https://flukeout.github.io/
