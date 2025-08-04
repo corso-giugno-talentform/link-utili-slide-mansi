@@ -1,0 +1,6 @@
+- Corso Completo PHP 8: https://www.youtube.com/watch?v=RQdj38RXOvc&list=PLdYHjrPuGeKECBj1ApufowOXSi_py-6Hb
+- Corso completo Laravel 11: https://youtu.be/-VdBZH0PWto?si=6ra09ubObjiKZj4o
+- Filament 3: https://www.youtube.com/watch?v=I9hzvtli7BY&list=PLKwhTZ1JwKheoYvaG3fvtnV0zmqTZ9SL2&pp=gAQB0gcJCV8EOCosWNin
+- Fortify: https://www.youtube.com/watch?v=L5MryR4XwBw&list=PLKwhTZ1JwKhdXtuaK-gVr2sLSvagqIgRw&pp=gAQB
+- Pagamenti: https://www.youtube.com/watch?v=tk7WjAzW_UM&t=323s
+- Deploy: https://www.youtube.com/watch?v=wmMTUQI7gns&list=PLKwhTZ1JwKhcQg3eWsZ_FKB1oEEP8Sqds&pp=gAQB
