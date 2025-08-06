@@ -37,6 +37,7 @@
 - **FullPage.js (scroll a sezioni):** https://alvarotrigo.com/fullPage/
 - **Toastify (notifiche leggere):** https://apvarun.github.io/toastify-js/
 - **VanillaTilt (effetto tilt 3D):** https://micku7zu.github.io/vanilla-tilt.js/
+- **MultiSelect**: https://apalfrey.github.io/select2-bootstrap-5-theme/
 
 ---
 
